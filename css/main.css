@@ -1,8 +1,25 @@
-body {
-  background-color: #8EB632;
-  color: #1217B6;
-  font-family: 'Monotype Corsiva','Comic Sans MS',cursive; }
+.leftSide {
+  width: 115px;
+  background-color: #1EC221;
+  float: left;
+  height: 3000px;
+  margin: 0; }
 
-.b__h1 {
+.content {
+  background-color: #A5A1C2;
+  width: 1050px;
+  height: 3000px;
+  margin: 0;
+  float: left;
+  text-align: center; }
+
+.rightSide {
+  width: 115px;
+  background-color: #C2313D;
+  float: left;
+  height: 3000px;
+  margin: 0; }
+
+.rightSide__h2 {
   text-align: center;
-  text-height: 60px; }
+  color: #C2313D; }
