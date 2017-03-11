@@ -30,8 +30,7 @@
   text-decoration: none; }
 
 .menu__a {
-  font-weight: bold;
-  text-decoration: underline; }
+  font-weight: bold; }
 
 .content {
   height: 800px;
@@ -42,7 +41,7 @@
 
 .text {
   position: absolute;
-  left: 620px;
+  left: 640px;
   right: 240px;
   top: 300px; }
 
@@ -56,3 +55,16 @@
   color: #C1C1C1;
   font-size: 15px;
   line-height: 25px; }
+
+.buttons {
+  position: absolute;
+  left: 640px;
+  top: 500px; }
+
+.buttons__item1 {
+  margin: 0 5px 0 0;
+  float: left; }
+
+.buttons__item2 {
+  margin: 0;
+  float: left; }
